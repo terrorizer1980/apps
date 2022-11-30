@@ -76,7 +76,7 @@
     "node": ">=12"
   },
   "dependencies": {
-    "json-stable-stringify": "^1.0.1",
+    "json-stable-stringify": "^1.0.2",
     "mime-types": "^2.1.30",
     "rev-hash": "^3.0.0"
   },
